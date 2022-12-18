@@ -1,0 +1,7 @@
+- [x] all subject are presented
+- [x] evaluations are presented
+- [x] done
+  - [ ] here
+  - [x] link [project repo](https://github.com/mohaslimani/ft_ls.git)
+- [x] report.pdf
+- [ ] documentations/top ressources ()[]

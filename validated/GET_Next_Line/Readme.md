@@ -1,0 +1,6 @@
+- [x] all subject are presented
+- [x] evaluations are presented (two format)
+- [x] done
+  - [ ] here
+  - [x] link [project repo](https://github.com/mohaslimani/GET_Next_Line)
+- [x] documentations/top ressources geeksforgeeks(static var. )[https://www.geeksforgeeks.org/static-variables-in-c/] ( linkedLists)[https://www.geeksforgeeks.org/data-structures/linked-list/]

@@ -1,0 +1,29 @@
+= Host-specific information ====================================================
+$> hostname; uname -msr
+e2r12p3.1337.ma
+Darwin 16.7.0 x86_64
+$> date
+Sun Jul  7 16:47:18 WEST 2019
+$> gcc --version
+Configured with: --prefix=/Applications/Xcode.app/Contents/Developer/usr --with-gxx-include-dir=/usr/include/c++/4.2.1
+Apple LLVM version 9.0.0 (clang-900.0.39.2)
+Target: x86_64-apple-darwin16.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+$> clang --version
+Apple LLVM version 9.0.0 (clang-900.0.39.2)
+Target: x86_64-apple-darwin16.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+
+= User files collection ========================================================
+Collecting user files from Vogsphere
+Repository URL: auto-exam/2019/c-exam-alone-in-the-dark-beginner/practice-exam_20190707/msoulaim
+= Collected files ==========================================
+$> ls -lAR /var/folders/7p/77yfhnyx0x3fdxm8cbb8v99r0000gq/T/tmpOYCcC7/user
+ 
+= reverse_bits =================================================================
+Nothing turned in
+Grade: 0
+
+= Final grade: 0 ===============================================================

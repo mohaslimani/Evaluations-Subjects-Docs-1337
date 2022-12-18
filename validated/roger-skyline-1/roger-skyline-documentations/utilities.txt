@@ -1,0 +1,9 @@
+fail2ban:   https://blog.rapid7.com/2017/02/13/how-to-protect-ssh-and-apache-using-fail2ban-on-ubuntu-linux/
+portsentry: https://wiki.debian-fr.xyz/Portsentry
+crontab:    https://crontab.guru/#0_0_*_*_*
+sslgen:     https://www.it-connect.fr/configurer-le-ssl-avec-apache-2/
+enablessl:  https://doc.ubuntu-fr.org/tutoriel/securiser_apache2_avec_ssl
+apache2:    https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-debian-9
+http2https: https://www.namecheap.com/support/knowledgebase/article.aspx/9821/38/apache-redirect-to-https
+listenport: https://www.ostechnix.com/how-to-change-apache-ftp-and-ssh-default-port-to-a-custom-port-part-1/
+checkport:  https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/

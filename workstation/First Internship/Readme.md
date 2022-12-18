@@ -1,0 +1,7 @@
+- [x] all subject are presented
+- [x] evaluations are presented
+- [x] done
+  - [ ] here
+  - [x] link [project repo](https://github.com/mohaslimani/first-intenship)
+  - [x] link [vid.](https://www.youtube.com/watch?v=6WnswF09-gU)
+  - [x] link [repo test ver.](should be inside the repo)

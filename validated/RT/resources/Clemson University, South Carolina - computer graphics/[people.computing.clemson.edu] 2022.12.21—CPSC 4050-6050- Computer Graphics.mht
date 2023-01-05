@@ -1,0 +1,2063 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://people.computing.clemson.edu/~dhouse/courses/405/
+Subject: CPSC 4050/6050: Computer Graphics
+Date: Wed, 21 Dec 2022 13:38:22 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--EO9z25sLOOEbOKJiSdP8GP4LoyKCFWXwGoGMHHMMcJ----"
+
+
+------MultipartBoundary--EO9z25sLOOEbOKJiSdP8GP4LoyKCFWXwGoGMHHMMcJ----
+Content-Type: text/html
+Content-ID: <frame-6C4060EAC023B967466895A3584BF7E8@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://people.computing.clemson.edu/~dhouse/courses/405/
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html xmlns:=
+v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:of=
+fice:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" xmlns:m=3D"h=
+ttp://schemas.microsoft.com/office/2004/12/omml" xmlns:css=3D"http://macVml=
+SchemaUri" xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta http-equiv=
+=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><link rel=3D"style=
+sheet" type=3D"text/css" href=3D"cid:css-c68b9aea-ac8a-4a73-b4a1-7af5f829f9=
+0d@mhtml.blink" />
+    <meta name=3D"Title" content=3D"CPSC 4050/6050: Computer Graphics">
+    <meta name=3D"Keywords" content=3D"">
+   =20
+    <meta name=3D"ProgId" content=3D"Word.Document">
+    <meta name=3D"Generator" content=3D"Microsoft Word 2008">
+    <meta name=3D"Originator" content=3D"Microsoft Word 2008">
+    <link rel=3D"File-List" href=3D"https://people.computing.clemson.edu/~d=
+house/courses/405/index_files/filelist.xml">
+    <link rel=3D"Edit-Time-Data" href=3D"https://people.computing.clemson.e=
+du/~dhouse/courses/405/index_files/editdata.mso">
+    <!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+    <title>CPSC 4050/6050: Computer Graphics</title>
+    <!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Donald House</o:Author>
+  <o:Template>Normal.dotm</o:Template>
+  <o:LastAuthor>Nell Kennedy</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>8</o:TotalTime>
+  <o:Created>2010-02-01T21:59:00Z</o:Created>
+  <o:LastSaved>2010-02-01T22:07:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>1478</o:Words>
+  <o:Characters>9314</o:Characters>
+  <o:Company>Clemson University</o:Company>
+  <o:Lines>160</o:Lines>
+  <o:Paragraphs>31</o:Paragraphs>
+  <o:CharactersWithSpaces>11235</o:CharactersWithSpaces>
+  <o:Version>12.0</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>150</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" LatentStyleCount=3D"276">
+ </w:LatentStyles>
+</xml><![endif]-->
+    <!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+   =20
+  </head>
+  <body style=3D" background-color: rgb(255, 255, 200); color: rgb(0, 0,
+    0);" alink=3D"#ee0000" lang=3D"EN-US" link=3D"#993300" vlink=3D"#ff6600=
+">
+    <div class=3D"Section1">
+      <div align=3D"center">
+        <table class=3D"MsoNormalTable" style=3D"width: 100%;" border=3D"0"=
+ cellpadding=3D"0" width=3D"100%">
+          <tbody>
+            <tr style=3D"">
+              <td style=3D"padding: 2pt;">
+                <p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+                <h1 style=3D"margin: 0.1pt 0in; text-align: center;" align=
+=3D"center"><span style=3D"font-family: Arial;">CPSC
+                    4050 / 6050</span></h1>
+                <div style=3D"text-align: center; font-family: Arial;">
+                  <h3><span style=3D"font-family: Arial;">Section 001</span=
+></h3>
+                </div>
+                <h1 style=3D"margin: 0.1pt 0in; text-align: center;" align=
+=3D"center"><span style=3D"font-family: Helvetica;">Computer
+
+
+                    Graphics<o:p></o:p></span></h1>
+                <h3 style=3D"margin: 0.1pt 0in; text-align: center;" align=
+=3D"center"><font size=3D"+2"><span style=3D"font-size:
+                      12pt; font-family: Helvetica;">Spring 2014<o:p></o:p>=
+</span></font></h3>
+                <h5 style=3D"margin: 0.1pt 0in; text-align: center;" align=
+=3D"center"><span style=3D"font-size: 12pt;
+                    font-family: Helvetica;">M/W</span><span style=3D"font-=
+size: 12pt; font-family: Helvetica;">
+                    2:30 - 3:45, Daniel 415, 3 credits</span><span style=3D=
+"font-size: 12pt; font-family: Helvetica;"><o:p></o:p></span></h5>
+                <p class=3D"MsoNormal"><big><big><o:p>&nbsp;</o:p></big></b=
+ig></p>
+              </td>
+              <td style=3D"padding: 2pt;">
+                <p class=3D"MsoNormal" style=3D"text-align: center;" align=
+=3D"center"><!--[if gte vml 1]><v:shapetype
+   id=3D"_x0000_t75" coordsize=3D"21600,21600" o:spt=3D"75" o:preferrelativ=
+e=3D"t"
+   path=3D"m@4@5l@4@11@9@11@9@5xe" filled=3D"f" stroked=3D"f">
+   <v:stroke joinstyle=3D"miter"/>
+   <v:formulas>
+    <v:f eqn=3D"if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn=3D"sum @0 1 0"/>
+    <v:f eqn=3D"sum 0 0 @1"/>
+    <v:f eqn=3D"prod @2 1 2"/>
+    <v:f eqn=3D"prod @3 21600 pixelWidth"/>
+    <v:f eqn=3D"prod @3 21600 pixelHeight"/>
+    <v:f eqn=3D"sum @0 0 1"/>
+    <v:f eqn=3D"prod @6 1 2"/>
+    <v:f eqn=3D"prod @7 21600 pixelWidth"/>
+    <v:f eqn=3D"sum @8 21600 0"/>
+    <v:f eqn=3D"prod @7 21600 pixelHeight"/>
+    <v:f eqn=3D"sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok=3D"f" gradientshapeok=3D"t" o:connecttype=3D"rect"=
+/>
+   <o:lock v:ext=3D"edit" aspectratio=3D"t"/>
+  </v:shapetype><v:shape id=3D"_x0000_i1066" type=3D"#_x0000_t75" alt=3D"ea=
+pot"
+   style=3D'width:249pt;height:149pt'>
+   <v:imagedata src=3D"images/teapot.jpg"/>
+  </v:shape><![endif]--><!--[if !vml]--><img style=3D"width: 500px;
+                    height: 300px;" alt=3D"teapot" src=3D"https://people.co=
+mputing.clemson.edu/~dhouse/courses/405/images/teapot.png"><br>
+                </p>
+                <p class=3D"MsoNormal" style=3D"text-align: center;" align=
+=3D"center"><br>
+                  <!--[endif]--></p>
+              </td>
+            </tr>
+            <tr style=3D"">
+              <td style=3D"padding: 2pt;">
+                <h3 style=3D"font-family: Helvetica,Arial,sans-serif;">Prof=
+essor:
+
+
+
+
+
+
+
+                  <b><font size=3D"+1"><a href=3D"http://www.cs.clemson.edu=
+/~dhouse">Donald
+H.
+
+
+
+
+
+
+
+                        House</a></font></b></h3>
+                <span style=3D"font-family: Helvetica,Arial,sans-serif;">of=
+fice:
+McAdams
+319,
+
+
+
+
+
+
+
+                  phone: 656-2844<br>
+                  email:&nbsp;<span style=3D"text-decoration: underline;"><=
+img style=3D"width: 168px; height: 17px;" alt=3D"email
+                      addr" src=3D"https://people.computing.clemson.edu/~dh=
+ouse/courses/405/email-addr.png" align=3D"top"></span>,
+                  hours: Tu/Th 4:00-5:00<br>
+                  <br>
+                </span><big><span container=3D"http://www.cs.clemson.edu/~d=
+house/courses/405/" style=3D"font-family: Helvetica,Arial,sans-serif;"> </s=
+pan></big>
+                <h3><small><span container=3D"http://www.cs.clemson.edu/~dh=
+ouse/courses/405/" style=3D"font-family: Helvetica,Arial,sans-serif;">TA:<s=
+pan style=3D"font-weight: normal;"> Kacey Coley,
+                        McAdams 118 (DPA Lab)<br>
+                        <br>
+                      </span></span></small></h3>
+                <h3><small><span container=3D"http://www.cs.clemson.edu/~dh=
+ouse/courses/405/" style=3D"font-family: Helvetica,Arial,sans-serif;"></spa=
+n></small></h3>
+                <big> </big>
+                <p container=3D"http://www.cs.clemson.edu/~dhouse/courses/4=
+05/" style=3D"font-family: Helvetica,Arial,sans-serif;"><big><b container=
+=3D"http://www.cs.clemson.edu/~dhouse/courses/405/">Web Page:</b>
+                    <a href=3D"http://www.cs.clemson.edu/~dhouse/courses/40=
+5">http://www.cs.clemson.edu/~dhouse/courses/405</a></big><br container=3D"=
+http://www.cs.clemson.edu/~dhouse/courses/405/">
+                  <span container=3D"http://www.cs.clemson.edu/~dhouse/cour=
+ses/405/" style=3D"font-weight: bold;"><br>
+                  </span></p>
+              </td>
+              <td style=3D"padding: 2pt; font-family:
+                Helvetica,Arial,sans-serif;">
+                <h3 style=3D"font-family: Helvetica,Arial,sans-serif;
+                  text-align: center;"><a href=3D"https://people.computing.=
+clemson.edu/~dhouse/courses/405/schedule.html">Schedule</a><br>
+                  <br>
+                </h3>
+                <div style=3D"text-align: center;"> </div>
+                <h3 style=3D"font-family: Helvetica,Arial,sans-serif;
+                  text-align: center;"> <a href=3D"https://people.computing=
+.clemson.edu/~dhouse/courses/405/students.html">Students</a><br>
+                  <br>
+                </h3>
+                <div style=3D"text-align: center;"> </div>
+                <h3 style=3D"font-family: Helvetica,Arial,sans-serif;
+                  text-align: center;"> <a href=3D"https://people.computing=
+.clemson.edu/~dhouse/courses/405/assignments.html">Programming
+
+
+
+
+
+
+
+                    Projects</a><br>
+                  <br>
+                </h3>
+                <div style=3D"text-align: center;"> </div>
+                <h3 style=3D"font-family: Helvetica,Arial,sans-serif;
+                  text-align: center;"> <a href=3D"https://people.computing=
+.clemson.edu/~dhouse/courses/405/results.html">Project
+                    Results</a><br>
+                  <br>
+                </h3>
+                <div style=3D"text-align: center;"> </div>
+                <h3 style=3D"font-family: Helvetica,Arial,sans-serif;
+                  text-align: center;"> <a href=3D"https://people.computing=
+.clemson.edu/~dhouse/courses/405/docs-notes.html">Resources
+
+
+
+
+
+
+
+                    and Documentation</a></h3>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p class=3D"MsoNormal" style=3D"text-align: center;" align=3D"center"=
+><span style=3D"font-family: Helvetica; color: black;"><o:p>&nbsp;</o:p></s=
+pan></p>
+      <div class=3D"MsoNormal" style=3D"text-align: center;" align=3D"cente=
+r"><span style=3D"color: black;">
+          <hr align=3D"center" size=3D"2" width=3D"100%"></span></div>
+      <h3 style=3D"margin: 0.1pt 0in;"><span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black;">Course Catalog
+          Description<o:p></o:p></span></h3>
+      <span style=3D"font-family: &quot;Times New Roman&quot;;"><span style=
+=3D"font-family: Helvetica,Arial,sans-serif;"></span><span style=3D"font-fa=
+mily: Helvetica,Arial,sans-serif;">Computational,
+mathematical,
+
+
+
+
+
+
+
+          physical, and perceptual principles underlying the production
+          of effective three-dimensional computer</span><span style=3D"font=
+-family: Helvetica,Arial,sans-serif;"> graphics
+          imagery.</span><br>
+      </span><span style=3D"font-size: 12pt; color: black;"><o:p>&nbsp;</o:=
+p></span>
+      <h3 style=3D"margin: 0.1pt 0in;"><span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black;">Prerequisites<o:p></o:p></=
+span></h3>
+      <p class=3D"MsoNormal"><span style=3D"font-size: 12pt; font-family:
+          Helvetica; color: black;">Coursework in Data Structures (CPSC
+          2120) and Linear Algebra (MTHS 3110) or DPA 4010.<o:p></o:p></spa=
+n></p>
+      <p class=3D"MsoNormal"><span style=3D"font-size: 12pt; color: black;"=
+><o:p>&nbsp;</o:p></span></p>
+      <h3 style=3D"margin: 0.1pt 0in;"><span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black;">Course Objectives<o:p></o:=
+p></span></h3>
+      <p class=3D"MsoNormal"><span style=3D"font-size: 12pt; font-family:
+          Helvetica; color: black;">This course is designed to train
+          students in the foundation principles of 3D Computer Graphics,
+          so that they will be able to</span><span style=3D"font-size:
+          12pt; color: black;"> <o:p></o:p></span></p>
+      <ul style=3D"margin-top: 0in;" type=3D"disc">
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"font-=
+size: 12pt; font-family: Helvetica;">understand</span></span><span style=3D=
+"font-size: 12pt; font-family: Helvetica;"> the
+            internal workings of commercial systems for the rendering of
+            digital images from&nbsp; 3D models<o:p></o:p></span></li>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"font-=
+size: 12pt; font-family: Helvetica;">write</span></span><span style=3D"font=
+-size: 12pt; font-family: Helvetica;"> their own
+            software for 3D modeling and rendering<o:p></o:p></span></li>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"font-=
+size: 12pt; font-family: Helvetica;">use</span></span><span style=3D"font-s=
+ize: 12pt; font-family: Helvetica;"> 3D
+            graphics API's<o:p></o:p></span></li>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"font-=
+size: 12pt; font-family: Helvetica;">undertake</span></span><span style=3D"=
+font-size: 12pt; font-family: Helvetica;"> creative
+            work and research in 3D graphics<o:p></o:p></span></li>
+      </ul>
+      <p class=3D"MsoNormal"><span style=3D"font-size: 12pt; font-family:
+          Helvetica; color: black;">Students attend lectures, read,
+          discuss, and complete quizzes on <span class=3D"GramE">hand-out</=
+span>
+          material. They also complete a series of programming projects
+          designed to gradually expand their knowledge of the field of
+          3D graphics. <o:p></o:p></span></p>
+      <p class=3D"MsoNormal"><span style=3D"font-size: 12pt; color: black;"=
+><o:p>&nbsp;</o:p></span></p>
+      <h3 style=3D"margin: 0.1pt 0in;"><span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black;">Programming Projects<o:p><=
+/o:p></span></h3>
+      <p class=3D"MsoNormal"><span style=3D"font-size: 12pt; font-family:
+          Helvetica; color: black;">All of the projects involve
+          programming in <i>C++</i> and require the use of graphics
+          libraries. Work may be done on any computer supporting <i>C++</i>=
+,
+          and the <i>OpenGL</i>, <i>and GLUT</i> API's. However,
+          before turning in an assignment, the program must be compiled
+          and tested under the Clemson School of Computing <span class=3D"S=
+pellE"><i>linux</i></span> operating system, and a
+          working <span class=3D"SpellE"><i>Makefile</i></span> must be
+          provided.<br>
+          <br>
+          In order to access files from the course home directory, and
+          to turn in programming projects, all students will need to use
+          their computer science account. All students enrolled in CS
+          courses are automatically assigned CS accounts. You will need
+          to login early in the semester to change your password, or the
+          account may be expired. If you have problems logging in, send
+          an email to helpdesk@cs.clemson.edu from your Clemson email
+          account, or stop by 109 or 112 McAdams with a picture ID.<o:p></o=
+:p></span></p>
+      <p class=3D"MsoNormal"><span style=3D"font-size: 12pt; color: black;"=
+><o:p>&nbsp;</o:p></span></p>
+      <h3 style=3D"margin: 0.1pt 0in;"><span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black;">Text and Handout
+          Materials<o:p></o:p></span></h3>
+      <ul style=3D"margin-top: 0in;" type=3D"disc">
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">Shirley, et al., <a href=3D"http://www=
+.amazon.com/Fundamentals-Computer-Graphics-Peter-Shirley/dp/1568814690/ref=
+=3Ddp_ob_title_bk?ie=3DUTF8&amp;qid=3D1218740015&amp;sr=3D1-2"><i>Fundament=
+als
+
+
+
+
+
+
+
+                of Computer Graphics, 3rd edition</i></a>, AK Peters.<o:p><=
+/o:p></span></li>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">House, <i style=3D"">3D Computer
+              Graphics</i>, Course Notes (posted in sections on schedule
+            page)<o:p></o:p></span></li>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">Other materials linked on the
+            Course Website<o:p></o:p></span></li>
+      </ul>
+      <span style=3D"font-size: 12pt; font-family: Helvetica;"><o:p>&nbsp;<=
+/o:p></span>
+      <h3 style=3D"margin: 0.1pt 0in;"><span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black;">Reference Reading
+          Material<o:p></o:p></span></h3>
+      <ul style=3D"margin-top: 0in;" type=3D"disc">
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span class=3D"SpellE"><span style=3D"font=
+-size: 12pt; font-family: Helvetica;">Shreiner</span></span><span style=3D"=
+font-size: 12pt; font-family: Helvetica;">, Woo, <span class=3D"SpellE">Nei=
+der</span> and Davis, <i style=3D""><a href=3D"http://www.amazon.com/OpenGL=
+-Programming-Guide-Official-Learning/dp/0321552628/ref=3Ddp_ob_title_bk">Op=
+enGL
+
+
+
+
+
+
+
+                Programming Guide, The Official Guide to Learning
+                OpenGL, Versions 3.0 and 3.1 (7th Edition)</a>, </i>Addison
+
+
+
+
+
+
+            Wesley</span></li>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">Foley, Van Dam, <span class=3D"SpellE"=
+>Feiner</span> and Hughes, <a href=3D"http://www.amazon.com/Computer-Graphi=
+cs-Principles-Practice-Programming/dp/0201848406/ref=3Dpd_bbs_sr_1?ie=3DUTF=
+8&amp;s=3Dbooks&amp;qid=3D1218740015&amp;sr=3D1-1"><i style=3D"">Computer G=
+raphics Principles and Practice in C,
+                2nd Edition</i></a>, Addison Wesley, 1995.</span></li>
+      </ul>
+      <span style=3D"font-size: 12pt; font-family: Helvetica;"><o:p>&nbsp;<=
+/o:p></span>
+      <h3 style=3D"margin: 0.1pt 0in;"><span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black;">Course Outline<o:p></o:p><=
+/span></h3>
+      <p class=3D"MsoNormal"><span style=3D"font-size: 12pt; font-family:
+          Helvetica; color: black;">The course outline below covers the
+          theoretical foundations of computer graphics. <br>
+          Practical material on the use of the 3D graphics API <i>OpenGL</i=
+>
+          will be presented as required throughout the semester.</span><spa=
+n style=3D"font-size: 12pt; color: black;"><o:p></o:p></span></p>
+      <ol style=3D"margin-top: 0in;" start=3D"1" type=3D"1">
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">The Foundations of 3D Computer
+            Graphics<o:p></o:p></span></li>
+        <ul style=3D"margin-top: 0in;" type=3D"circle">
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">modeling</span></span><span style=3D=
+"font-size: 12pt; font-family: Helvetica;"><o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">light</span></span><span style=3D"fo=
+nt-size: 12pt; font-family: Helvetica;"> and
+              shade<o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">viewing</span></span><span style=3D"=
+font-size: 12pt; font-family: Helvetica;"><o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">sampling</span></span><span style=3D=
+"font-size: 12pt; font-family: Helvetica;"><o:p></o:p></span></li>
+        </ul>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">Storage of Images<o:p></o:p></span></l=
+i>
+        <ul style=3D"margin-top: 0in;" type=3D"circle">
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"SpellE"><span class=3D"Gr=
+amE"><span style=3D"font-size: 12pt; font-family:
+                  Helvetica;">pixmaps</span></span></span><span style=3D"fo=
+nt-size: 12pt; font-family: Helvetica;"><o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"SpellE"><span class=3D"Gr=
+amE"><span style=3D"font-size: 12pt; font-family:
+                  Helvetica;">greyscale</span></span></span><span style=3D"=
+font-size: 12pt; font-family: Helvetica;"> and RGB
+              color<o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">color</span></span><span style=3D"fo=
+nt-size: 12pt; font-family: Helvetica;"> systems<o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">color</span></span><span style=3D"fo=
+nt-size: 12pt; font-family: Helvetica;"> displays
+              and output devices<o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">image</span></span><span style=3D"fo=
+nt-size: 12pt; font-family: Helvetica;"> file
+              formats<o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">conversion</span></span><span style=
+=3D"font-size: 12pt; font-family: Helvetica;"> between
+              formats<o:p></o:p></span></li>
+        </ul>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">Vectors and Vector Algebra<o:p></o:p><=
+/span></li>
+        <ul style=3D"margin-top: 0in;" type=3D"circle">
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">what</span></span><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;"> is a
+              vector?<o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">additive</span></span><span style=3D=
+"font-size: 12pt; font-family: Helvetica;">
+              operations<o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">dot</span></span><span style=3D"font=
+-size: 12pt; font-family: Helvetica;"> product<o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">cross</span></span><span style=3D"fo=
+nt-size: 12pt; font-family: Helvetica;"> product<o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">solving</span></span><span style=3D"=
+font-size: 12pt; font-family: Helvetica;">
+              geometric problems with vector algebra<o:p></o:p></span></li>
+        </ul>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">Rendering I<o:p></o:p></span></li>
+        <ul>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+              font-family: Helvetica;">A <span class=3D"SpellE">raycasting<=
+/span>
+              renderer</span></li>
+        </ul>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">Lighting and Shading</span></li>
+        <ul>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">lighting</span></span><span style=3D=
+"font-size: 12pt; font-family: Helvetica;"> models</span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+              font-family: Helvetica;">Ambient, diffuse and specular
+              reflection</span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"SpellE"><span style=3D"fo=
+nt-size: 12pt; font-family: Helvetica;">Phong</span></span><span style=3D"f=
+ont-size: 12pt; font-family: Helvetica;"> shading
+              model</span></li>
+        </ul>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">Geometry</span></li>
+        <ul>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+              font-family: Helvetica;">Polygons</span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+              font-family: Helvetica;">Polygonal surfaces and data
+              structures</span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">Implicit</span></span><span style=3D=
+"font-size: 12pt; font-family: Helvetica;"> and
+              parametric surface representations</span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+              font-family: Helvetica;">Blobbies<br>
+            </span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+              font-family: Helvetica;">Quadrics<br>
+            </span></li>
+        </ul>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">Rendering II</span></li>
+        <ul>
+          <li><span style=3D"font-size: 12pt; font-family: Helvetica;">Glob=
+al
+vs.
+
+
+
+
+
+
+
+              local illumination</span><span class=3D"GramE"><span style=3D=
+"font-size: 12pt; font-family: Helvetica;"></span></span></li>
+          <li><span class=3D"GramE"><span style=3D"font-size: 12pt;
+                font-family: Helvetica;">recursive</span></span><span style=
+=3D"font-size: 12pt; font-family: Helvetica;"> <span class=3D"SpellE">raytr=
+acing</span> as a solution</span></li>
+        </ul>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">Matrices and Matrix Algebra<o:p></o:p>=
+</span></li>
+        <ul>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">matrix</span></span><span style=3D"f=
+ont-size: 12pt; font-family: Helvetica;">
+              representation<o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">matrix</span></span><span style=3D"f=
+ont-size: 12pt; font-family: Helvetica;">-vector
+              multiplication<o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">the</span></span><span style=3D"font=
+-size: 12pt; font-family: Helvetica;"> 2D and
+              3D affine transforms</span></li>
+        </ul>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">Coordinate Systems and Camera
+            Models<o:p></o:p></span></li>
+        <ul style=3D"margin-top: 0in;" type=3D"circle">
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">coordinate</span></span><span style=
+=3D"font-size: 12pt; font-family: Helvetica;"> system
+              transformations<o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">representations</span></span><span s=
+tyle=3D"font-size: 12pt; font-family: Helvetica;"> for
+              rotations<o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">camera</span></span><span style=3D"f=
+ont-size: 12pt; font-family: Helvetica;"> models<o:p></o:p></span></li>
+        </ul>
+        <o:p></o:p>
+        <ul style=3D"margin-top: 0in;" type=3D"circle">
+        </ul>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">Rendering III<o:p></o:p></span></li>
+        <ul style=3D"margin-top: 0in;" type=3D"circle">
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><big><span style=3D"font-family:
+                Helvetica,Arial,sans-serif;">Screen space vs. Object
+                space renderers</span></big><br>
+            <span style=3D"font-size: 12pt; font-family: Helvetica;"></span=
+></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+              font-family: Helvetica;">Projection systems, orthographic
+              and perspective<o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+              font-family: Helvetica;">Homogeneous coordinates<o:p></o:p></=
+span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+              font-family: Helvetica;">Scan conversion (rasterization)<o:p>=
+</o:p></span></li>
+        </ul>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">Geometry<o:p></o:p></span></li>
+        <ul style=3D"margin-top: 0in;" type=3D"circle">
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">scene</span></span><span style=3D"fo=
+nt-size: 12pt; font-family: Helvetica;"> graphs
+              and hierarchical modeling<o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+              font-family: Helvetica;">OBJ file format<o:p></o:p></span></l=
+i>
+        </ul>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">Shading<o:p></o:p></span></li>
+        <ul style=3D"margin-top: 0in;" type=3D"circle">
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+              font-family: Helvetica;">Bidirectional reflectance
+              distribution function<o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+              font-family: Helvetica;"><o:p></o:p></span><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">Procedural
+
+
+
+
+
+
+
+              shading<o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+              font-family: Helvetica;">Texture maps and <span class=3D"Spel=
+lE">antialiasing</span><o:p></o:p></span><span style=3D"font-size: 12pt; fo=
+nt-family: Helvetica;"></span></li>
+        </ul>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">Modeling: Parametric Curves and
+            Surfaces</span><o:p></o:p><br>
+        </li>
+      </ol>
+      <span style=3D"font-size: 12pt; font-family: Helvetica;"></span>
+      <ol style=3D"margin-top: 0in;" start=3D"1" type=3D"1">
+        <ul style=3D"margin-top: 0in;" type=3D"circle">
+        </ul>
+      </ol>
+      <span style=3D"font-size: 12pt; font-family: Helvetica;"><o:p></o:p><=
+/span>
+      <ol style=3D"margin-top: 0in;" start=3D"1" type=3D"1">
+        <ul style=3D"margin-top: 0in;" type=3D"circle">
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">polynomial</span></span><span style=
+=3D"font-size: 12pt; font-family: Helvetica;">
+              representation of parametric curves<o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"GramE"><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica;">piecewise</span></span><span style=
+=3D"font-size: 12pt; font-family: Helvetica;"> cubic
+              curves<o:p></o:p></span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span class=3D"SpellE"><span class=3D"Gr=
+amE"><span style=3D"font-size: 12pt; font-family:
+                  Helvetica;">biparametric</span></span></span><span style=
+=3D"font-size: 12pt; font-family: Helvetica;"> surfaces</span></li>
+          <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+            margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+              font-family: Helvetica;">subdivision surfaces<br>
+            </span></li>
+        </ul>
+      </ol>
+      <ol style=3D"margin-top: 0in;" start=3D"14" type=3D"1">
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">Rendering IV<o:p></o:p></span></li>
+      </ol>
+      <span style=3D"font-size: 12pt; font-family: Helvetica;"></span>
+      <ol style=3D"margin-top: 0in;" start=3D"1" type=3D"1">
+        <ul style=3D"margin-top: 0in;" type=3D"circle">
+          <span style=3D"font-size: 12pt; font-family: Helvetica;"></span>
+          <li><span style=3D"font-family: Helvetica;"></span><span style=3D=
+"font-family: Helvetica,Arial,sans-serif;">Ambient
+              occlusion</span><span style=3D"font-family:
+              Helvetica,Arial,sans-serif;"> <br>
+            </span></li>
+          <li><span style=3D"font-family: Helvetica,Arial,sans-serif;">Phot=
+on
+
+
+
+
+
+
+
+              mapping</span></li>
+        </ul>
+      </ol>
+      <span style=3D"font-size: 12pt; font-family: Helvetica;"><o:p>&nbsp;<=
+/o:p></span>
+      <h3 style=3D"margin: 0.1pt 0in;"><span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black;">Performance Evaluation<o:p=
+></o:p></span></h3>
+      <p class=3D"MsoNormal"><span style=3D"font-size: 12pt; font-family:
+          Helvetica; color: black;"><span style=3D"text-decoration:
+            underline;">Undergraduate students</span>:<br>
+          Grading will be based on performance on a set of seven
+          programming projects, ten quizzes, the final exam, and class
+          participation, using the following percentage distribution:<br>
+          =E2=80=A2 Programming Projects: 50%<br>
+          =E2=80=A2 Quizzes: 20%<br>
+          =E2=80=A2 Final Exam: 20%<br>
+          =E2=80=A2 Class Participation: 10%</span></p>
+      <p class=3D"MsoNormal"><span style=3D"font-size: 12pt; font-family:
+          Helvetica; color: black;"><br>
+          <span style=3D"text-decoration: underline;">Graduate students</sp=
+an>:<br>
+          Each programming project will include an extension involving
+          advanced concepts. Completion of all regular requirements and
+          this extension, on each assignment, is required for graduate
+          students. Grading will be based on performance on a set of
+          seven programming projects, seven advanced project extensions,
+          ten quizzes, the final exam, and class participation, using
+          the following percentage distribution:<br>
+          =E2=80=A2 Programming Projects: 30%<br>
+          =E2=80=A2 Advanced Project Extensions: 20%<br>
+          =E2=80=A2 Quizzes: 20%<br>
+          =E2=80=A2 Final Exam: 20%<br>
+          =E2=80=A2 Class Participation: 10%<br>
+        </span></p>
+      <span style=3D"font-family: Helvetica;"><br>
+      </span><span style=3D"font-size: 12pt; font-family: Helvetica;"><o:p>=
+</o:p></span>
+      <ul style=3D"margin-top: 0in;" type=3D"disc">
+      </ul>
+      <p class=3D"MsoNormal"><i><span style=3D"font-size: 12pt; font-family=
+:
+            Helvetica; color: black;">Programming projects:</span></i><span=
+ style=3D"font-size: 12pt; font-family: Helvetica; color: black;">
+          All seven programming projects will involve developing
+          computer graphics software in C++, using the OpenGL and GLUT
+          API's. <u><br>
+            To be on time, work must be submitted before midnight of the
+            due date.</u><span style=3D"text-decoration: underline;"> <span=
+ style=3D"color: rgb(204, 0, 0);">A late penalty of 1/2 point
+              will be applied for each of the first seven days that a
+              project is late. No project will be accepted beyond seven
+              days from the due date.</span></span> <br>
+          Homework problems and extensions will be graded using the
+          following scheme:</span><span style=3D"font-size: 12pt; color:
+          black;"><o:p></o:p></span></p>
+      <ul style=3D"margin-top: 0in;" type=3D"disc">
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">10&nbsp;&nbsp; Meets requirements
+            for grade of 9, but is particularly distinguished by
+            elegance and efficiency of design and implementation</span></li=
+>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">&nbsp; 9&nbsp;&nbsp; </span><span styl=
+e=3D"font-size: 12pt; font-family: Helvetica;">Meets
+            requirements for grade of 8</span><span style=3D"font-size:
+            12pt; font-family: Helvetica;">, and has a well thought out
+            design and implementation<o:p></o:p></span></li>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">&nbsp; 8&nbsp;&nbsp; Meets all
+            basic requirements, as determined by program execution<o:p></o:=
+p></span></li>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">&nbsp; 7&nbsp;&nbsp; A solid
+            effort, meeting most basic requirements but has some errors
+            or shortfalls</span><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">, as determined by program
+            execution</span></li>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">&nbsp;...<br>
+          </span></li>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">&nbsp; 0&nbsp;&nbsp; Completely
+            unsatisfactory, or not submitted, or submitted beyond the 7
+            day late window<o:p></o:p></span><span style=3D"font-size:
+            12pt; font-family: Helvetica; color: black;"></span></li>
+      </ul>
+      <span style=3D"font-size: 12pt; font-family: Helvetica; color:
+        black;">The final programming project average will be computed
+        by averaging the student's seven project scores.</span><br>
+      <div style=3D"margin-left: 40px;"> <span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black;"></span></div>
+      <p class=3D"MsoNormal"><span style=3D"font-size: 12pt; font-family:
+          Helvetica; color: black;"></span><span style=3D"font-size: 12pt;
+          color: black;"><br>
+        </span><i><span style=3D"font-size: 12pt; font-family: Helvetica;
+            color: black;">Quizzes:</span></i><span style=3D"font-size:
+          12pt; font-family: Helvetica; color: black;"> Each Quiz will
+          have two questions and will be take home. Quizzes must be
+          submitted by the start of class on the due date, and the class
+          will begin by a discussion of the quiz problems. <span style=3D"t=
+ext-decoration: underline; color: rgb(204, 0, 0);">No
+
+
+
+
+
+
+            quizzes will be accepted after the start of class.</span>
+          Quizzes will be graded as follows:</span><span style=3D"font-size=
+: 12pt; color: black;"><o:p></o:p></span></p>
+      <ul style=3D"margin-top: 0in;" type=3D"disc">
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">&nbsp; 4&nbsp;&nbsp; Both questions
+            answered correctly<o:p></o:p></span></li>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">&nbsp; 3 &nbsp; One question
+            answered correctly, one question partially correct<o:p></o:p></=
+span></li>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">&nbsp; 2 &nbsp; One question
+            answered correctly, or both questions partially correct<o:p></o=
+:p></span></li>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">&nbsp; 1&nbsp;&nbsp; One question
+            partially correct<o:p></o:p></span></li>
+        <li class=3D"MsoNormal" style=3D"color: black; margin-top: 0.1pt;
+          margin-bottom: 0.1pt;"><span style=3D"font-size: 12pt;
+            font-family: Helvetica;">&nbsp; 0 &nbsp; Not a reasonable
+            effort or not submitted<o:p></o:p></span><span style=3D"font-si=
+ze: 12pt; font-family: Helvetica; color:
+            black;"></span></li>
+      </ul>
+      <span style=3D"font-size: 12pt; font-family: Helvetica; color:
+        black;">Quiz scores are interepreted as follows: 4 =3D&gt; 100, 3
+        =3D&gt; 87, 2 =3D&gt; 71, 1 =3D&gt; 50, 0 =3D&gt; 0.</span><span st=
+yle=3D"font-size: 12pt; font-family: Helvetica; color: black;">
+        The final quiz average will be computed by averaging the
+        student's top 8 of 10 quiz scores.</span><br>
+      <div style=3D"margin-left: 40px;"> <span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black;"></span></div>
+      <p class=3D"MsoNormal"><span style=3D"font-size: 12pt; font-family:
+          Helvetica; color: black;"></span><span style=3D"font-size: 12pt;
+          color: black;"><br>
+        </span><i><span style=3D"font-size: 12pt; font-family: Helvetica;
+            color: black;">Final Examination: </span></i><span style=3D"fon=
+t-size: 12pt; font-family: Helvetica; color: black;">Students
+
+
+
+
+
+
+
+          maintaining an average of 8.0 or higher on programming
+          projects, and 3.0 or higher on quizzes may elect to waive the
+          final exam. In that case, the grade will be the weighted
+          average of the remaining 80 points. The exam will be
+          comprehensive. It will consist of ten short answer and two
+          essay style questions. Short answers will require at most a
+          short paragraph, code segment, and/or a figure to answer.
+          Essay questions will require at most two pages, including
+          accompanying figures, to answer.<br>
+          <i><br>
+            Class Participation:</i> The class participation grade is
+          the instructor's subjective <span class=3D"SpellE">judgement</spa=
+n>
+          of the student's contribution to a lively classroom
+          atmosphere. He will consider mainly active, informed
+          participation in classroom discussions, quiz and homework
+          reviews. Obviously, students not attending class are not
+          contributing in this way.</span><span style=3D"font-size: 12pt;
+          color: black;"> <o:p></o:p></span></p>
+      <p class=3D"MsoNormal"><span style=3D"font-size: 12pt; color: black;"=
+><o:p>&nbsp;</o:p></span></p>
+      <h3 style=3D"margin: 0.1pt 0in;"><span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black;">Late Class Policy<o:p></o:=
+p></span></h3>
+      <h3 style=3D"margin: 0.1pt 0in;"><span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black; font-weight: normal;">Your
+instructor
+will
+make
+every
+effort
+to
+be
+in
+class
+on
+time,
+or
+to
+inform
+you
+of
+any
+delay
+or
+cancellation.
+In
+the
+unusual
+event
+that
+
+
+
+
+
+
+
+          he should not arrive in class or send word by 10 minutes from
+          the class start time, the class is officially cancelled.<o:p></o:=
+p></span></h3>
+      <h3 style=3D"margin: 0.1pt 0in;"><span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black; font-weight: normal;"><o:p>=
+&nbsp;</o:p></span></h3>
+      <h3 style=3D"margin: 0.1pt 0in;"><span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black;">Attendance Policy<o:p></o:=
+p></span></h3>
+      <h3 style=3D"margin: 0.1pt 0in;"><span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black; font-weight: normal;">Atten=
+dance
+
+
+
+
+
+
+
+          in class is optional, but remember that a percentage of the
+          grade is based on class participation.<o:p></o:p></span></h3>
+      <h3 style=3D"margin: 0.1pt 0in;"><span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black; font-weight: normal;"><o:p>=
+&nbsp;</o:p></span></h3>
+      <h3 style=3D"margin: 0.1pt 0in;"><span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black;">Collaboration Yes,
+          Plagiarism No<o:p></o:p></span></h3>
+      <p style=3D"margin: 0.1pt 0in;"><span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black;">In this course, we want
+          to encourage collaboration and the free interchange of ideas
+          among students and in particular the discussion of homework
+          and quiz problems, approaches to solving them, etc. However,
+          we do not allow plagiarism, which, as commonly defined,
+          consists of passing off as one's own ideas, words, writings,
+          etc., which belong to another. In accordance with this
+          definition, you are committing plagiarism if you copy the work
+          of another person and turn it in as your own, even if you
+          should have the permission of that person. Plagiarism is one
+          of the worst academic sins, for the plagiarist destroys the
+          trust among colleagues without which research cannot be safely
+          communicated. <o:p></o:p></span></p>
+      <p style=3D"margin: 0.1pt 0in;"><span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black;"><o:p>&nbsp;</o:p></span></=
+p>
+      <h3 style=3D"margin: 0.1pt 0in;"><span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black;">Copyright<o:p></o:p></span=
+></h3>
+      <p style=3D"margin: 0.1pt 0in;"><span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black;">Materials in this
+          course are copyrighted. They are intended for use only by
+          students registered and enrolled in this course and only for
+          instructional activities associated with and for the duration
+          of the course. They may not be retained in another medium or
+          disseminated further. They are provided in compliance with the
+          provisions of the Teach Act. Students should refer to the Use
+          of Copyrighted Materials and =E2=80=9CFair Use Guidelines=E2=80=
+=9D policy on
+          the Clemson University website for additional information<span cl=
+ass=3D"GramE">:&nbsp; </span><a href=3D"http://www.lib.clemson.edu/copyrigh=
+t/">http://www.lib.clemson.edu/copyright/</a>.
+          <o:p></o:p></span></p>
+      <p style=3D"margin: 0.1pt 0in;"><span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black;"><o:p>&nbsp;</o:p></span></=
+p>
+      <h3 style=3D"margin: 0.1pt 0in;"><span style=3D"font-size: 12pt;
+          font-family: Helvetica; color: black;">Disability Access<o:p></o:=
+p></span></h3>
+      <p class=3D"MsoNormal"><span style=3D"font-size: 12pt; font-family:
+          Helvetica; color: black;">It is University policy to provide,
+          on a flexible and individualized basis, reasonable
+          accommodations to students who have disabilities.&nbsp;
+          Students are encouraged to contact Student Disability Services
+          to discuss their individual needs for accommodation.<o:p></o:p></=
+span></p>
+      <p class=3D"MsoNormal"><span style=3D"font-size: 12pt; color: black;"=
+><o:p>&nbsp;</o:p></span></p>
+      <h3 style=3D"margin: 0.1pt 0in;"><strong><span style=3D"font-size:
+            12pt; font-family: Helvetica; color: black;">Academic
+            Integrity</span></strong><span style=3D"font-size: 12pt;
+          color: black;"><o:p></o:p></span></h3>
+      <p class=3D"MsoNormal" style=3D"margin-bottom: 12pt;"><span style=3D"=
+font-size: 12pt; font-family: Helvetica; color: black;">As
+members
+
+
+
+
+
+
+
+          of the Clemson University community, we have inherited Thomas
+          Green Clemson=E2=80=99s vision of this institution as a =E2=80=98=
+high seminary
+          of learning.=E2=80=99 Fundamental to this vision is a mutual
+          commitment to truthfulness, honor, and responsibility, without
+          which we cannot earn the trust and respect of others.&nbsp;
+          Furthermore, we recognize that academic dishonesty detracts
+          from the value of a Clemson degree.&nbsp; Therefore, we shall
+          not tolerate lying, cheating, or stealing in any form. In
+          instances where academic standards may have been compromised,
+          Clemson University has a responsibility to respond
+          appropriately and expeditiously to charges of violations of
+          academic integrity.<br>
+          &nbsp;<br>
+          Please refer to the graduate academic integrity policy,
+          approved March 26, 2007 by the Provost=E2=80=99s Advisory Council=
+, at
+          <a href=3D"http://gradspace.editme.com/AcademicGrievancePolicyand=
+Procedures#integritypolicy">http://gradspace.editme.com/AcademicGrievancePo=
+licyandProcedures#integritypolicy</a><br>
+          Each graduate student should read this policy annually to be
+          apprised of this critical information.</span><span style=3D"font-=
+size: 12pt; color: black;"><o:p></o:p></span></p>
+    </div>
+ =20
+
+</body></html>
+------MultipartBoundary--EO9z25sLOOEbOKJiSdP8GP4LoyKCFWXwGoGMHHMMcJ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-c68b9aea-ac8a-4a73-b4a1-7af5f829f90d@mhtml.blink
+
+@charset "utf-8";
+
+@font-face { font-family: Arial; }
+
+@font-face { font-family: "Courier New"; }
+
+@font-face { font-family: Times; }
+
+@font-face { font-family: Wingdings; }
+
+@font-face { font-family: Cambria; }
+
+p.MsoNormal, li.MsoNormal, div.MsoNormal { margin: 0in 0in 0.0001pt; font-s=
+ize: 10pt; font-family: "Times New Roman"; }
+
+h1 { margin: 0in 0in 0.0001pt; font-size: 24pt; font-family: "Times New Rom=
+an"; font-weight: bold; }
+
+h3 { margin: 0in 0in 0.0001pt; font-size: 13.5pt; font-family: "Times New R=
+oman"; font-weight: bold; }
+
+h5 { margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: "Times New Rom=
+an"; font-weight: bold; }
+
+a:link, span.MsoHyperlink { color: rgb(102, 51, 0); text-decoration: underl=
+ine; }
+
+a:visited, span.MsoHyperlinkFollowed { color: rgb(204, 102, 0); text-decora=
+tion: underline; }
+
+p { margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: "Times New Roma=
+n"; }
+
+span.Heading1Char { font-family: Calibri; color: rgb(52, 90, 138); font-wei=
+ght: bold; }
+
+span.Heading3Char { font-family: Calibri; color: rgb(79, 129, 189); font-we=
+ight: bold; }
+
+span.Heading5Char { font-family: Calibri; color: rgb(36, 64, 97); }
+
+span.SpellE { }
+
+span.GramE { }
+
+@page Section1 { size: 8.5in 11in; margin: 1in 1.25in; }
+
+div.Section1 { page: Section1; }
+
+ol { margin-bottom: 0in; }
+
+ul { margin-bottom: 0in; }
+------MultipartBoundary--EO9z25sLOOEbOKJiSdP8GP4LoyKCFWXwGoGMHHMMcJ----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://people.computing.clemson.edu/~dhouse/courses/405/images/teapot.png
+
+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
+
+------MultipartBoundary--EO9z25sLOOEbOKJiSdP8GP4LoyKCFWXwGoGMHHMMcJ----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://people.computing.clemson.edu/~dhouse/courses/405/email-addr.png
+
+iVBORw0KGgoAAAANSUhEUgAAAMYAAAAUCAIAAABZD9UuAAAACXBIWXMAAB7CAAAewgFu0HU+AAAK
+TWlDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVN3WJP3Fj7f92UPVkLY8LGXbIEAIiOsCMgQ
+WaIQkgBhhBASQMWFiApWFBURnEhVxILVCkidiOKgKLhnQYqIWotVXDjuH9yntX167+3t+9f7vOec
+5/zOec8PgBESJpHmomoAOVKFPDrYH49PSMTJvYACFUjgBCAQ5svCZwXFAADwA3l4fnSwP/wBr28A
+AgBw1S4kEsfh/4O6UCZXACCRAOAiEucLAZBSAMguVMgUAMgYALBTs2QKAJQAAGx5fEIiAKoNAOz0
+ST4FANipk9wXANiiHKkIAI0BAJkoRyQCQLsAYFWBUiwCwMIAoKxAIi4EwK4BgFm2MkcCgL0FAHaO
+WJAPQGAAgJlCLMwAIDgCAEMeE80DIEwDoDDSv+CpX3CFuEgBAMDLlc2XS9IzFLiV0Bp38vDg4iHi
+wmyxQmEXKRBmCeQinJebIxNI5wNMzgwAABr50cH+OD+Q5+bk4eZm52zv9MWi/mvwbyI+IfHf/ryM
+AgQAEE7P79pf5eXWA3DHAbB1v2upWwDaVgBo3/ldM9sJoFoK0Hr5i3k4/EAenqFQyDwdHAoLC+0l
+YqG9MOOLPv8z4W/gi372/EAe/tt68ABxmkCZrcCjg/1xYW52rlKO58sEQjFu9+cj/seFf/2OKdHi
+NLFcLBWK8ViJuFAiTcd5uVKRRCHJleIS6X8y8R+W/QmTdw0ArIZPwE62B7XLbMB+7gECiw5Y0nYA
+QH7zLYwaC5EAEGc0Mnn3AACTv/mPQCsBAM2XpOMAALzoGFyolBdMxggAAESggSqwQQcMwRSswA6c
+wR28wBcCYQZEQAwkwDwQQgbkgBwKoRiWQRlUwDrYBLWwAxqgEZrhELTBMTgN5+ASXIHrcBcGYBie
+whi8hgkEQcgIE2EhOogRYo7YIs4IF5mOBCJhSDSSgKQg6YgUUSLFyHKkAqlCapFdSCPyLXIUOY1c
+QPqQ28ggMor8irxHMZSBslED1AJ1QLmoHxqKxqBz0XQ0D12AlqJr0Rq0Hj2AtqKn0UvodXQAfYqO
+Y4DRMQ5mjNlhXIyHRWCJWBomxxZj5Vg1Vo81Yx1YN3YVG8CeYe8IJAKLgBPsCF6EEMJsgpCQR1hM
+WEOoJewjtBK6CFcJg4Qxwicik6hPtCV6EvnEeGI6sZBYRqwm7iEeIZ4lXicOE1+TSCQOyZLkTgoh
+JZAySQtJa0jbSC2kU6Q+0hBpnEwm65Btyd7kCLKArCCXkbeQD5BPkvvJw+S3FDrFiOJMCaIkUqSU
+Eko1ZT/lBKWfMkKZoKpRzame1AiqiDqfWkltoHZQL1OHqRM0dZolzZsWQ8ukLaPV0JppZ2n3aC/p
+dLoJ3YMeRZfQl9Jr6Afp5+mD9HcMDYYNg8dIYigZaxl7GacYtxkvmUymBdOXmchUMNcyG5lnmA+Y
+b1VYKvYqfBWRyhKVOpVWlX6V56pUVXNVP9V5qgtUq1UPq15WfaZGVbNQ46kJ1Bar1akdVbupNq7O
+UndSj1DPUV+jvl/9gvpjDbKGhUaghkijVGO3xhmNIRbGMmXxWELWclYD6yxrmE1iW7L57Ex2Bfsb
+di97TFNDc6pmrGaRZp3mcc0BDsax4PA52ZxKziHODc57LQMtPy2x1mqtZq1+rTfaetq+2mLtcu0W
+7eva73VwnUCdLJ31Om0693UJuja6UbqFutt1z+o+02PreekJ9cr1Dund0Uf1bfSj9Rfq79bv0R83
+MDQINpAZbDE4Y/DMkGPoa5hpuNHwhOGoEctoupHEaKPRSaMnuCbuh2fjNXgXPmasbxxirDTeZdxr
+PGFiaTLbpMSkxeS+Kc2Ua5pmutG003TMzMgs3KzYrMnsjjnVnGueYb7ZvNv8jYWlRZzFSos2i8eW
+2pZ8ywWWTZb3rJhWPlZ5VvVW16xJ1lzrLOtt1ldsUBtXmwybOpvLtqitm63Edptt3xTiFI8p0in1
+U27aMez87ArsmuwG7Tn2YfYl9m32zx3MHBId1jt0O3xydHXMdmxwvOuk4TTDqcSpw+lXZxtnoXOd
+8zUXpkuQyxKXdpcXU22niqdun3rLleUa7rrStdP1o5u7m9yt2W3U3cw9xX2r+00umxvJXcM970H0
+8PdY4nHM452nm6fC85DnL152Xlle+70eT7OcJp7WMG3I28Rb4L3Le2A6Pj1l+s7pAz7GPgKfep+H
+vqa+It89viN+1n6Zfgf8nvs7+sv9j/i/4XnyFvFOBWABwQHlAb2BGoGzA2sDHwSZBKUHNQWNBbsG
+Lww+FUIMCQ1ZH3KTb8AX8hv5YzPcZyya0RXKCJ0VWhv6MMwmTB7WEY6GzwjfEH5vpvlM6cy2CIjg
+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
+
+------MultipartBoundary--EO9z25sLOOEbOKJiSdP8GP4LoyKCFWXwGoGMHHMMcJ------

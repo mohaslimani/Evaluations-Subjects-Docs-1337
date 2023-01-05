@@ -1,0 +1,4 @@
+this course was downloaded from :
+https://people.computing.clemson.edu/~dhouse/courses/405/notes/
+this is a course for computer graphics
+the best part are about raytracing

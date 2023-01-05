@@ -1,0 +1,186 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html;
+      charset=ISO-8859-1">
+    <meta name="generator" content="Adobe GoLive 4">
+    <title>CP SC 405/605 - Blobbies and Metaballs</title>
+    <!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+  </head>
+  <body style="background-color: white;">
+    <center style="font-family: Helvetica,Arial,sans-serif;">
+      <h2><b><b>CPSC 4050 / 6050</b></b></h2>
+    </center>
+    <center style="font-family: Helvetica,Arial,sans-serif;">
+      <h2><font size="4"><b>Spring 2014<br>
+          </b></font></h2>
+    </center>
+    <center style="font-family: Helvetica,Arial,sans-serif;">
+      <h2>Representation of <span style="font-style: italic;">Blobby</span>
+        or <span style="font-style: italic;">Metaball</span> Surfaces<br>
+      </h2>
+    </center>
+    <p style="font-family: Helvetica,Arial,sans-serif;"><b>DHH, 3/1/2011</b><br>
+    </p>
+    <hr style="font-family: Helvetica,Arial,sans-serif;" width="100%"><span
+      style="font-family: Helvetica,Arial,sans-serif;"></span><span
+      style="font-family: Helvetica,Arial,sans-serif;"></span>
+    <ol style="font-family: Helvetica,Arial,sans-serif;" start="2">
+    </ol>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <table style="text-align: left; width: 100%;" border="0"
+      cellpadding="2" cellspacing="2">
+      <tbody>
+        <tr>
+          <td style="vertical-align: middle; text-align: center;"><img
+              style="width: 200px; height: 200px;" alt="shaving cream"
+              src="figures/shaving-cream.jpg"><br>
+            <br>
+            <span style="font-family: Helvetica,Arial,sans-serif;">Shaving
+              Cream</span><br>
+          </td>
+          <td style="vertical-align: middle; text-align: center;"><img
+              style="width: 219px; height: 200px;" alt="whipped cream"
+              src="figures/whipped-cream.jpg"><br>
+            <br>
+            <span style="font-family: Helvetica,Arial,sans-serif;">Whipped
+              Cream</span><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <span style="font-family: Helvetica,Arial,sans-serif;">There is an
+      interesting approach in computer graphics that can be used to
+      model a
+      number of "blobby" materials, like the shaving
+      cream and whipped cream in the figures above. The idea is to model
+      the
+      volume contained by the material by a collection of particles.
+      Each
+      particle is the center of a "field" function that typically starts
+      at 1
+      at the particle's location and goes to zero at some distance <span
+        style="font-style: italic;">R</span> from the particle. An
+      example is
+      the "soft object" equation for the field around a particle <span
+        style="font-style: italic;">i</span> at distance <span
+        style="font-style: italic;">r</span><sub style="font-style:
+        italic;">i</sub>
+      from the particle:<br>
+      <br>
+    </span>
+    <div style="text-align: center;"><span style="font-family:
+        Helvetica,Arial,sans-serif;"><img style="width: 600px; height:
+          61px;" alt="soft equation" src="figures/soft-eqn.jpg">.<br>
+      </span>
+      <div style="text-align: left;">
+        <div style="text-align: center;"><span style="font-family:
+            Helvetica,Arial,sans-serif;"></span><br>
+          <span style="font-family: Helvetica,Arial,sans-serif;"></span></div>
+        <span style="font-family: Helvetica,Arial,sans-serif;"><br>
+        </span><span style="font-family: Helvetica,Arial,sans-serif;">Now,
+          if
+          we have a collection of particles, some of which are within
+          distance <span style="font-style: italic;">R</span> of each
+          other, then their fields
+          overlap. We can, therefore, define a total field function by
+          summing
+          over all of the particles at some spatial point <span
+            style="font-weight: bold; font-style: italic;">x</span>,<br>
+          <br>
+        </span>
+        <div style="text-align: center;"><span style="font-family:
+            Helvetica,Arial,sans-serif;"><img style="width: 270px;
+              height: 70px;" alt="sum of f's"
+              src="figures/sum-of-fs.jpg"><br>
+            <br>
+          </span>
+          <div style="text-align: left;"><span style="font-family:
+              Helvetica,Arial,sans-serif;">Position <span
+                style="font-weight: bold; font-style: italic;">x</span><sub
+                style="font-weight: bold; font-style: italic;">i</sub>
+              denotes the
+              location of particle <span style="font-style: italic;">i</span>.
+              This
+              field function gives us a measure of how near the point <span
+                style="font-style: italic; font-weight: bold;">x</span>
+              in space is to
+              one or more particles in the collection. If we form the
+              level set</span><br>
+            <span style="font-family: Helvetica,Arial,sans-serif;"></span></div>
+          <span style="font-family: Helvetica,Arial,sans-serif;"><br>
+            <img style="width: 171px; height: 30px;" alt="level set"
+              src="figures/level-set.jpg">,<br>
+            <br>
+          </span>
+          <div style="text-align: left;"><span style="font-family:
+              Helvetica,Arial,sans-serif;">where <span
+                style="font-style: italic;">L</span> is some arbitrary
+              scalar value,
+              then we have a function that goes to zero exactly when the
+              total field
+              effect from the collection of particles sums to exactly <span
+                style="font-style: italic;">L</span> at point <span
+                style="font-weight: bold; font-style: italic;">x</span>
+              in space. When
+              rendered as a surface, this turns out to be a fairly
+              pleasing blobby
+              looking surface. Its look can be adjusted by tuning the <span
+                style="font-style: italic;">L</span> value being used
+              and by moving
+              the particles around. The two images below are simple
+              examples.<br>
+              <br>
+            </span>
+            <table style="text-align: left; width: 100%;" border="0"
+              cellpadding="2" cellspacing="2">
+              <tbody>
+                <tr>
+                  <td style="vertical-align: top; text-align: center;"><img
+                      style="width: 250px; height: 208px;" alt="rgb
+                      blobs" src="figures/rgb-blobs.png"><br>
+                    <br>
+                    <span style="font-family:
+                      Helvetica,Arial,sans-serif;">A blobby
+                      surface from just 3 particles</span><br>
+                  </td>
+                  <td style="vertical-align: top; text-align: center;"><img
+                      style="width: 223px; height: 208px;"
+                      alt="chocolate"
+                      src="figures/chocolate-example.png"><br>
+                    <br>
+                    <span style="font-family:
+                      Helvetica,Arial,sans-serif;">Blobby
+                      surfaces from a larger number of particles</span><br>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <span style="font-family: Helvetica,Arial,sans-serif;"><br>
+              <br>
+            </span>
+            <ol>
+              <li><span style="font-family: Helvetica,Arial,sans-serif;">Given
+                  the
+                  scheme described above, and a particular choice of <span
+                    style="font-style: italic;">L</span>, think about
+                  the simplest way
+                  you can think of to make an image of the "blobby"
+                  surface described by
+                  a set of particles. Assume that you already have a
+                  nice spatial data
+                  structure so that whatever calculations you have to do
+                  are efficient.<br>
+                  <br>
+                </span></li>
+            </ol>
+            <span style="font-family: Helvetica,Arial,sans-serif;"><br>
+            </span><span style="font-family:
+              Helvetica,Arial,sans-serif;"></span></div>
+          <span style="font-family: Helvetica,Arial,sans-serif;"></span></div>
+        <span style="font-family: Helvetica,Arial,sans-serif;"><br>
+        </span><span style="font-family: Helvetica,Arial,sans-serif;"></span></div>
+      <span style="font-family: Helvetica,Arial,sans-serif;"></span></div>
+  </body>
+</html>
